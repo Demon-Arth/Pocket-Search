@@ -1,4 +1,4 @@
 # Node Server for Pocket Search
  run it with 
- - cd client
+ - cd server
  - npm run dev / npm run start
