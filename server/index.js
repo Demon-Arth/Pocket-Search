@@ -14,7 +14,7 @@ let POKEMON_CACHE = {};
 
 
 app.get('/', (req, res) => {
-    res.json({ status: 'PocketCodex Server Online', pilot: 'Ready' });
+    res.json({ status: 'Pocket Search - is live', is : 'Ready' });
 });
 
 
